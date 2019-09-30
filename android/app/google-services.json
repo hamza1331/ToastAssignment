@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585459153792",
+    "firebase_url": "https://app-2efab.firebaseio.com",
+    "project_id": "app-2efab",
+    "storage_bucket": "app-2efab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585459153792:android:f1858f657a7513cb",
+        "android_client_info": {
+          "package_name": "com.video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585459153792-lfvqfn2unfcn85jct631daocn2id4f7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.video",
+            "certificate_hash": "88b134f9ce3ea24ae9a849f3c7269465ade09ccc"
+          }
+        },
+        {
+          "client_id": "585459153792-8km1vq281ri363a8jc9tfm698ksbg5d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7YMaKsOrRu64SJHsXOEznrIgrLEtklqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585459153792-8km1vq281ri363a8jc9tfm698ksbg5d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

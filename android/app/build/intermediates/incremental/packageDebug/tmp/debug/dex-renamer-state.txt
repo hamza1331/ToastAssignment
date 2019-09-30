@@ -1,0 +1,4 @@
+#Mon Sep 30 21:12:37 PKT 2019
+base.0=/Users/shaggy/Documents/video/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
